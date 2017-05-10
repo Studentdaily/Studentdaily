@@ -1,0 +1,2 @@
+# Studentdaily
+beta Sd
